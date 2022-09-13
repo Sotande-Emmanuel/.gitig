@@ -1,0 +1,27 @@
+#show-contact {
+    display: none;
+    padding: 30px;
+    margin: 30px;
+}
+
+h1{
+    font-family: serif;
+}
+
+h2{
+    font-family: serif;
+}
+p{
+    font-family: monospace;
+    font-size: larger;
+}
+label{
+    font-family: cursive;
+}
+#contacts{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+}
+input{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
